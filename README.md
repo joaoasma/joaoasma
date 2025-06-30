@@ -17,6 +17,7 @@ Sou estudante de **Bacharelado em Ciências da Computação** na **UNIFAL - Univ
 ## 📫 Como me encontrar
 
 - ✉️ E-mail acadêmico: **joaoantonio.martins@sou.unifal-mg.edu.br**
+- 🔍 Meu website: https://joaoasma.github.io/meu-site/
 
 ---
 
